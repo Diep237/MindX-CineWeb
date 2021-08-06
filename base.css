@@ -1,0 +1,16 @@
+:root{
+    --colorBase:rgb(255,102,0);
+    /* --imgWidth:225px;
+    --imgHeight:125px; */
+    /* --imgWidth:14rem;
+    --imgHeight:8rem; */
+
+
+    --imgWidth:100%;
+    --imgHeight:78%;
+
+    --imgWidthSearch:100%;
+    --imgHeightSearch:65%;
+
+    
+}
